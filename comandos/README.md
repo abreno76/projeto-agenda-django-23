@@ -18,4 +18,6 @@ git init
 git add .
 git commit -m 'Mensagem'
 git remote add origin git@github.com:abreno76/projeto-agenda-django-23.git
+git remote add origin https://github.com/abreno76/projeto-agenda-django-23.git
+git push origin main -u
 ```
